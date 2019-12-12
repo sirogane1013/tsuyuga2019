@@ -1,0 +1,18 @@
+$main1: #5EE7FF;
+$main1-l: rgba(94, 231, 255, .80);
+$main1-w: rgba(94, 231, 255, .45);
+$main1-i: rgba(94, 231, 255, 0);
+$main2: #5F87FF;
+$main2-l: rgba(95, 135, 255, .80);
+$main2-w: rgba(95, 135, 255, .45);
+$main2-i: rgba(94, 231, 255, 0);
+$background: #ffffff;
+$font-size-l: 1.5rem;
+$font-size-m: 1rem;
+$font-size-s: 0.8rem;
+$text-gradient: linear-gradient(to bottom, $main1, #5EBEFF);
+$box-gradient: linear-gradient(160deg, $main1, $main2);
+
+$animation-delay-1: .1s;
+$animation-delay-2: .4s;
+$animation-delay-3: .5s;

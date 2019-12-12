@@ -1,0 +1,27 @@
+@import "variables";
+
+@mixin box-gradient($from: $main2, $to: $main1) {
+  background: linear-gradient(160deg, $from, $to);
+}
+
+@mixin text-gradient($deg: 0deg, $from: $main2, $to: $main1) {
+  color: $main2;
+  background: linear-gradient($deg, #5EE7FF, #5F87FF);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+@mixin fade-in-up($delay: $animation-delay-1) {
+  animation: fadeInUp .5s ease $delay 1 normal backwards;
+}
+
+@keyframes fadeInUp {
+  0% {
+    opacity: 0;
+    transform: translateY(1rem);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}

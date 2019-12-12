@@ -1,0 +1,74 @@
+[
+  {
+    "number": "1",
+    "title": "バス",
+    "member": [
+      {
+        "bureau": "1部署",
+        "grade": "17",
+        "name": "田中一郎"
+      },
+      {
+        "bureau": "1部署",
+        "grade": "18",
+        "name": "田中二郎"
+      },
+      {
+        "bureau": "1部署",
+        "grade": "19",
+        "name": "田中三郎"
+      },
+      {
+        "bureau": "2部署",
+        "grade": "17",
+        "name": "鈴木一郎"
+      },
+      {
+        "bureau": "2部署",
+        "grade": "18",
+        "name": "鈴木二郎"
+      },
+      {
+        "bureau": "2部署",
+        "grade": "19",
+        "name": "鈴木三郎"
+      }
+    ]
+  },
+  {
+    "number": "2",
+    "title": "レンタカー",
+    "member": [
+      {
+        "bureau": "3部署",
+        "grade": "17",
+        "name": "佐藤一郎"
+      },
+      {
+        "bureau": "3部署",
+        "grade": "18",
+        "name": "佐藤二郎"
+      },
+      {
+        "bureau": "3部署",
+        "grade": "19",
+        "name": "佐藤三郎"
+      },
+      {
+        "bureau": "4部署",
+        "grade": "17",
+        "name": "山田一郎"
+      },
+      {
+        "bureau": "4部署",
+        "grade": "18",
+        "name": "山田二郎"
+      },
+      {
+        "bureau": "4部署",
+        "grade": "19",
+        "name": "山田三郎"
+      }
+    ]
+  }
+]
