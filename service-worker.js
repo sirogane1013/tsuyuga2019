@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/tsuyuga2019/precache-manifest.dedaa52ebbf739d7631d13a9623dd1c8.js"
+  "/tsuyuga2019/precache-manifest.70c97a50518a844d63c98797d0b26171.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "tsuyuga2019"});
