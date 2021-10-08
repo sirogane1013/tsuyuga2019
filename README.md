@@ -1,29 +1,17 @@
-# tsuyuga2019
+# ☔つゆがサイト2019
+![t](https://user-images.githubusercontent.com/40066368/136482834-8f3dac99-253b-4328-b1ac-11932281e026.png)
 
-## Project setup
-```
-yarn install
-```
+## ❓What's This
+某団体の恒例行事「つゆが」、その2019年公式サイト
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
+🔗https://sirogane1013.github.io/tsuyuga2019/
 
-### Compiles and minifies for production
-```
-yarn run build
-```
+## 💻Development
+- Vue.js 2.6
 
-### Run your tests
-```
-yarn run test
-```
+## 🏗️How to Build
 
-### Lints and fixes files
 ```
-yarn run lint
+$ npm install
+$ npm run build
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
